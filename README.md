@@ -1,13 +1,13 @@
-Сторчило Іван Григорович, КВ-22МП.
+Сторчило Іван Григорович, КВ-22мп.
 
 Предмет:  Технологія розробки  Web-додатків.
 
-Тема : Розробка серверної частини Web-додатка.
+Тема : Організація спільної роботи користувачів Web-додатка.
 
-Мета: навчитись користуватись засобами фреймворка Python/Django, Django REST Framework та утилітою Postman.
+Мета: навчитись користуватись засобами Django-Channels для організації спільної роботи користувачів Web-додатка.
 
-Загальне завдання: розробити серверну частину Web-додатку та протестувати її функціональність.
+Загальне завдання: розробити функції обміну даними між користувачами Web-додатка, а також адміністрування користувачами у реальному часі.
 
-Інструменти розробки: Python 3, Django, Django REST Framework, Postman, Pycharm Community Edition
+Інструменти розробки: Python 3, Django, Django Channels, redis, Pycharm Community Edition
 
-Docs: https://docs.google.com/document/d/1GrsM5kO15qKwuGxYrxwUr1zVPIscSYLdCcomyyfDB60/edit?usp=sharing
+[Звіт](https://docs.google.com/document/d/1ng3Sz4krAecztCPVMs6byxtR0LZDPnd6G19l054fDaU/edit?usp=sharing)

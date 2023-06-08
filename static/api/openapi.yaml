@@ -1,13 +1,13 @@
 openapi: 3.0.2
 info:
-  title: Api Shops
+  title: Api Keystore
   version: 1.0.0
-  description: API for Shops This site is a project for the course of web programming. 
-               The site is a shop for buying products.
+  description: API for Keystore This site is a project for the course of web programming. 
+               The site is a shop for buying keyboards.
                Your can choose your product and buy it.
   contact:
-    name: 'Ivan Storchylo'
-    email: 'i.storchylo@gmail.com'
+    name: 'Danil Nikolaichuk'
+    email: 's.person2734@gmail.com'
 
 servers:
 - url: http://127.0.0.1:8000/
